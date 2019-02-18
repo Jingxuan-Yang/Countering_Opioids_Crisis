@@ -27,22 +27,3 @@ To install this class, you should
     move `mcmthesis.dtx` to `TEXMF/source/latex/mcmthesis/`,
     move other files     to `TEXMF/doc/latex/mcmthesis/` and then
     run `texhash`.
-
-## Author
-
-[latexstudio][latexstudio.net]
-
-Email: latexstudio@qq.com
-
-[Liam Huang][liam-ctan]
-
-Email: liamhuang0205+mcmthesis@gmail.com
-
-## Project Page
-
-If you are interested in the process of development you may observe
-
-<https://github.com/Liam0205/mcmthesis>
-
-[latexstudio]: http://www.latexstudio.net/
-[liam-ctan]: http://www.ctan.org/author/huang-l
